@@ -1,4 +1,4 @@
 let btn = document.querySelector('button')
-document.querySelector('button').onclick = function () {
+btn.onclick = function () {
     alert("Klik działa !");
 }
